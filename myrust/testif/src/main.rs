@@ -21,4 +21,14 @@ fn main() {
     for i in 0..5 {
         println!("a[{}] = {}", i, a[i]);
     }
+    
+    let pi = 3.141592;
+    println!("Hello, world!");
+
+    let s = format!("Pi is {a}  roughly {:.*}  ", 1, pi, a = "a");
+    println!("{0}", s);
+
+    let _tup = (500, 6.4, 1);
+    let (_x, y, _z) = _tup; //未使用变量要加 _
+    println!("{}", y);
 }
