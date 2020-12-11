@@ -15,10 +15,10 @@ fn main() {
     
     
     /*
-    let a = 123;   //重复定义是合法的,但需要用let，系统会推荐使用 _a
+    let a = 123;   //重复定义是合法的,但需要用let
       //^ help: if this is intentional, prefix it with an underscore: `_a`
-              //如果这是有意的，请在其前面加下划线：``u a 
-    //使用 _a不会出现上方的warning
+              //如果这是有意的，请在其前面加下划线： _a 
+    //使用 _a不会出现上方的warning，系统会推荐使用 _a
     //变量的值可以"重新绑定"，但在"重新绑定"以前不能私自被改变
     println!("a is {0}, a again is {0}", a); 
     */
