@@ -21,20 +21,20 @@
 #	::1             localhost
 
 
-52.74.223.119 https://github.com/
+52.74.223.119 github.com
 52.74.223.119 github.com
 
 52.69.186.44 github.com
-52.69.186.44 https://github.com/
+52.69.186.44 github.com
 
-13.229.188.59 http://github.com
-13.250.177.223 https://github.com/
+13.229.188.59 github.com
 13.250.177.223 github.com
+13.250.177.223 github.com
+52.69.186.44 github.com
 
 
 
-
-52.74.223.119 https://github.com/
+52.74.223.119 github.com
 52.74.223.119 github.com
 
 123.6.82.130 space.bilibili.com
