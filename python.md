@@ -7,3 +7,5 @@ readlines() 读所有行，类似[‘abcdefg’,'hijklmn']
 
 sum(map(lambda x:int(x),unicode(1234)))
 各位相加
+https://www.baidu.com/s?&wd=123
+
