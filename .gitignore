@@ -1,1 +1,7 @@
 target/
+.idea/
+Scripts/
+Lib/
+*.cfg
+cmake-build-debug/
+
