@@ -1,0 +1,30 @@
+Generating public/private rsa key pair.
+生成公共/私有rsa密钥对。
+Enter file in which to save the key (/c/Users/Administrator/.ssh/id_rsa):
+输入保存密钥的文件（/c/Users/Administrator/.ssh/id\u rsa）：
+Created directory '/c/Users/Administrator/.ssh'.
+已创建目录“/c/Users/Administrator/.ssh”。
+Enter passphrase (empty for no passphrase):
+输入密码短语（无密码短语为空）：
+Enter same passphrase again:
+再次输入相同的密码：
+Your identification has been saved in /c/Users/Administrator/.ssh/id_rsa
+您的标识已保存在/c/Users/Administrator/.ssh/id\u rsa中
+Your public key has been saved in /c/Users/Administrator/.ssh/id_rsa.pub
+您的公钥已保存在/c/Users/Administrator/.ssh/id_rsa.pub中
+The key fingerprint is:
+关键指纹是：
+SHA256:fea4UQrldp6wf8y0BvD9F9vnfHT3R1v23ONt+YcMgS0 zhangdy2014@foxmail.com
+The key's randomart image is:
+密钥的随机艺术图像为：
++---[RSA 3072]----+
+|                 |
+|                 |
+|          .o     |
+|         +E o    |
+|        S =+=o   |
+|         o %+.o.B|
+|          = +B O&|
+|           +  O*/|
+|          . .o.+&|
++----[SHA256]-----+
