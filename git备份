@@ -14,17 +14,17 @@ Your public key has been saved in /c/Users/Administrator/.ssh/id_rsa.pub
 您的公钥已保存在/c/Users/Administrator/.ssh/id_rsa.pub中
 The key fingerprint is:
 关键指纹是：
-SHA256:fea4UQrldp6wf8y0BvD9F9vnfHT3R1v23ONt+YcMgS0 zhangdy2014@foxmail.com
+密钥的随机艺术图像为
+SHA256:8gWhKwCmwKupmoeeUGIjW/lmTUnoElfisY+8SU9rZQ0 zongtongguilai1@gmail.com
 The key's randomart image is:
-密钥的随机艺术图像为：
 +---[RSA 3072]----+
-|                 |
-|                 |
-|          .o     |
-|         +E o    |
-|        S =+=o   |
-|         o %+.o.B|
-|          = +B O&|
-|           +  O*/|
-|          . .o.+&|
+|+.  o . .        |
+|+o . * . .       |
+|. + = o E        |
+| . B + o +       |
+|++= * B S o      |
+|==.+ O * .       |
+|+.  * = .        |
+|+.oo .           |
+|=+               |
 +----[SHA256]-----+
