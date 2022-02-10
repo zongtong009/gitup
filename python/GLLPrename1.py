@@ -3,7 +3,7 @@
 
 import os
 
-files = os.listdir(".") #open the current folder
+files = os.listdir(".") # 列出当前目录下所有的文件
 
 
 for file in files:
